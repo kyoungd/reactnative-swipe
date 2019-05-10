@@ -1,3 +1,6 @@
+expo init swipe
+cd swipe
+
 # set emulator as environment variable and path.  Take a look at it in the control panel.
 emulator -list-avds
 emulator -avd [emulator-name]
